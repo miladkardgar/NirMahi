@@ -1,4 +1,4 @@
-@extends('panel,adminLayout.login')
+@extends('panel.adminLayout.login')
 @section('main')
     <div class="container">
         <div class="row h-100">

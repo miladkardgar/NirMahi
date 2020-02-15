@@ -1,4 +1,4 @@
-@extends('adminLayout.base')
+@extends('panel.adminLayout.base')
 @section('body')
     <body class="background">
 

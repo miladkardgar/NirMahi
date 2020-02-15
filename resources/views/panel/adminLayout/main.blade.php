@@ -1,4 +1,4 @@
-@extends('adminLayout.base')
+@extends('panel.adminLayout.base')
 @section('css')
     <link rel="stylesheet" href="{{asset('/css/vendor/dataTables.bootstrap4.min.css')}}">
     <link rel="stylesheet" href="{{asset('/css/vendor/datatables.responsive.bootstrap4.min.css')}}">

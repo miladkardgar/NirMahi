@@ -16,5 +16,5 @@ Route::get('/panel', function () {
 })->middleware('admin');
 
 Route::get('/login',function (){
-    return view('auth.admin.login')->name('admin.login');
-});
+    return view('auth.admin.login');
+})->name('admin.login');

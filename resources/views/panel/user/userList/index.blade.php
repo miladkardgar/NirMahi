@@ -1,4 +1,4 @@
-@extends('admin.user.userList.frame')
+@extends('panel.user.userList.frame')
 @section('content')
     <div class="row">
         <div class="col-12">
